@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br>🌱 I’m currently learning Statistics<br>💬 Ask me about Python<br>📫 How to reach me zehraatilgannn@gmail.com
+🔭 I’m currently working on Data Science<br>🌱 I’m currently learning ML <br>💬 Ask me about Python<br>📫 How to reach me zehraatilgannn@gmail.com
 
 
 ## 🌐 Socials:
