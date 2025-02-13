@@ -1,5 +1,3 @@
-![image](https://images.ctfassets.net/lbwaqbajhugq/38KDTK2uCVbzU4cW79troR/d874f07fbdf8cf50fc30bf530304f415/how-will-artificial-intelligence-affect-jobs.jpg?w=1153&h=582&fit=fill&q=80
-)
 
 <h1 align="center">Hi 👋, I'm Zehra Atılgan Acer </h1>
 <h3 align="center">Data Scientist</h3> 
